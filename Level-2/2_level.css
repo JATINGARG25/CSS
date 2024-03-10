@@ -1,0 +1,12 @@
+div{
+    height: 50px;
+    width: 100px;
+    background-color: pink;
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: black; */
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
