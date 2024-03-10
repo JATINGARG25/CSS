@@ -1,0 +1,36 @@
+h1{
+    color:rgb(26, 20, 111);
+}
+
+p{
+    color:blueviolet;
+}
+
+body{
+    background-color:black;
+}
+
+#box{
+    background-color: blue;
+    color:azure;
+    text-align: center;
+}
+
+.heading{
+    color:red;
+}
+
+button{
+    background-color: green;
+}
+
+#one{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#two{
+    font-size: 15px;
+    line-height: 50px;
+    text-transform: capitalize;
+}

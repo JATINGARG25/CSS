@@ -1,0 +1,20 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+body{
+    background-color: grey;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+     font-size: 10px;
+}
